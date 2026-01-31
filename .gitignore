@@ -1,0 +1,18 @@
+# --- Python Gereksizleri ---
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# --- Proje Videoları  ---
+assets/input_videos/*.mp4
+assets/output_videos/*.mp4
+assets/temp/*
+
+# --- Yapay Zeka Modelleri  ---
+*.pt
+*.onnx
+
+# --- Sanal Ortam ---
+venv/
+env/
+.env
