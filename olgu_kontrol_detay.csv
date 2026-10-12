@@ -1,0 +1,57 @@
+﻿uretici,id,tur,metin,kelime,a_takim_adi,b_yasak,c_olgu,d_uzunluk,e_turkce_degil,temkin_yok,ihlal_var
+sablon,s01,olay,Barcelona topu arkadaşına aktarmış gibi görünüyor.,6,0,0,0,0,0,0,0
+sablon,s02,pencere,Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.,11,0,0,0,0,0,0,0
+sablon,s03,olay,Top Espanyol oyuncusuna geçmiş gibi duruyor.,6,0,0,0,0,0,0,0
+sablon,s04,olay,"Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",9,0,0,0,0,0,0,0
+sablon,s05,pencere,Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.,8,0,0,0,0,0,0,0
+sablon,s06,pencere,"Son on saniyede Barcelona 2 pas, Espanyol 0 pas yaptı.",10,0,0,0,0,0,0,0
+sablon,s07,olay,Barcelona oyunu sahanın ortasında sürdürüyor gibi görünüyor.,7,0,0,0,0,0,0,0
+sablon,s08,pencere,Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.,8,0,0,0,0,0,0,0
+sablon,s09,pencere,Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.,11,0,0,0,0,0,0,0
+sablon,s10,olay,Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.,7,0,0,0,0,0,0,0
+sablon,s11,pencere,"Barcelona bu bölümde 3 pas yaptı, top kaybı sayısı 0.",10,0,0,0,0,0,0,0
+sablon,s12,pencere,Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.,11,0,0,0,0,0,0,0
+sablon,s13,olay,"Barcelona orta alanda, kanat tarafında pas yapmış gibi görünüyor.",9,0,0,0,0,0,0,0
+sablon,s14,pencere,Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.,8,0,0,0,0,0,0,0
+gemma3:4b,s01,olay,"Barcelona, orta alanda kanat tarafında 14 metre pas yaptı.",9,0,0,0,0,0,1,0
+gemma3:4b,s02,pencere,"Barcelona, pas oyunuyla Espanyol'u 3-0 mağlup etti.",9,0,1,0,0,0,0,1
+gemma3:4b,s03,olay,"Barcelona, sahanın uç bölgelerinden birinde 11 metrede top kaybetti.",9,0,0,0,0,0,1,0
+gemma3:4b,s04,olay,"Barcelona, orta alanda kanat tarafında 37 metre ile topu kazandı.",10,0,0,0,0,0,1,0
+gemma3:4b,s05,pencere,"Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti.",9,0,1,0,0,0,0,1
+gemma3:4b,s06,pencere,"Barcelona, pas oyunuyla Espanyol'u 2-0 mağlup etti.",9,0,1,0,0,0,0,1
+gemma3:4b,s07,olay,"Barcelona, sahanın ortasında 20 metre pas yaptı.",7,0,0,0,0,0,1,0
+gemma3:4b,s08,pencere,"Barcelona, pas oyunuyla Espanyol'u 3-0 mağlup etti.",9,0,1,0,0,0,0,1
+gemma3:4b,s09,pencere,"Barcelona, 4-0'lık skorla Espanyol'u bolgede domine etti.",10,0,1,0,0,0,0,1
+gemma3:4b,s10,olay,"Barcelona, sahanın ortasında 26 metre pas yaptı.",7,0,0,0,0,0,1,0
+gemma3:4b,s11,pencere,"Barcelona, pas oyunuyla Espanyol'u 3-0 mağlup etti.",9,0,1,0,0,0,0,1
+gemma3:4b,s12,pencere,"Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti.",9,0,1,0,0,0,0,1
+gemma3:4b,s13,olay,"Barcelona, orta alanda kanat tarafında bir pas yaptı.",8,0,0,0,0,0,1,0
+gemma3:4b,s14,pencere,"Barcelona, pas oyunuyla Espanyol'u 2-0 mağlup etti.",9,0,1,0,0,0,0,1
+qwen3.5:4b,s01,olay,"Barcelona orta alanda, kanat tarafında 14 metrelik pas attı.",9,0,0,0,0,0,1,0
+qwen3.5:4b,s02,pencere,"Barcelona, Espanyol'a karşı 10. dakikada topa sahip olma yüzdesinde liderlik etti.",12,0,1,0,0,0,0,1
+qwen3.5:4b,s03,olay,"Barcelona, sahanın uç bölgelerinden birinde, kanat tarafında bulunan 11 metre mesafede topu kaybetti.",13,0,0,0,0,0,1,0
+qwen3.5:4b,s04,olay,"Espanyol orta alanda, kanat tarafında topu kaybetmiş.",7,0,0,0,0,0,1,0
+qwen3.5:4b,s05,pencere,"Barcelona, 10. dakikada Espanyole karşı 1-0 önde, %82 sahiplik yüzdesiyle topu kontrol ediyor.",14,0,1,0,0,0,0,1
+qwen3.5:4b,s06,pencere,"Barcelona, 10. dakikada Espanyol'a karşı gol attı ve topu %100 oranıyla kontrol etti.",14,0,1,0,0,0,0,1
+qwen3.5:4b,s07,olay,Barcelona oyuncusu sahada bolgeye 20 metrelik bir pas attı.,9,0,0,0,0,0,1,0
+qwen3.5:4b,s08,pencere,"Barcelona, Espanyol'a karşı 3-0 kazandı ve topa %99 oranında sahip oldu.",13,0,1,0,0,0,0,1
+qwen3.5:4b,s09,pencere,"Barcelona, 10. dakikada Espanyol'a karşı tüm topu kontrolünde tuttu ve en çok topu aldı.",15,0,1,0,0,0,0,1
+qwen3.5:4b,s10,olay,Barcelona oyuncusu sahanın ortasından 26 metre mesafede pas yaptı.,9,0,0,0,0,0,1,0
+qwen3.5:4b,s11,pencere,"Barcelona, Espanyol'a karşı 10. dakikada oynanan pencere maçında topu kontrol etti ve %100 sahip oldu.",16,0,1,0,1,0,0,1
+qwen3.5:4b,s12,pencere,"Barcelona, Espanyol'a karşı 1-0 kazandı ve topa %96 oranında sahip oldu.",13,0,1,0,0,0,0,1
+qwen3.5:4b,s13,olay,"Barcelona orta alanda, kanat tarafında bir pas yaptı.",8,0,0,0,0,0,1,0
+qwen3.5:4b,s14,pencere,"Barcelona, Espanyol'a karşı 10. dakikada pasla topu kontrol etti ve %98 oranında sahip oldu.",15,0,1,0,0,0,0,1
+llama3.1:8b,s01,olay,"Barcelona oyuncusu orta alanda, kanat tarafında pozisyon aldı.",8,0,0,0,0,0,1,0
+llama3.1:8b,s02,pencere,Barcelona 97'si sahipliği payına sahiptir.,6,0,0,0,0,0,0,0
+llama3.1:8b,s03,olay,"Barcelona, sahın uç bölgelerinden birinde, kanat tarafında topu kaybediyor.",9,0,0,0,0,0,1,0
+llama3.1:8b,s04,olay,"Espanyol, Barcelona'nın ortada kanat bölgesinde yaptığı top kaybı ile karşılaşmayı kaybetme yolundaydı.",13,0,0,0,0,0,1,0
+llama3.1:8b,s05,pencere,"Barcelona, 82 ile sahipliği paylaştı.",5,0,0,0,0,0,0,0
+llama3.1:8b,s06,pencere,"Barcelona, 10 saniyede iki pas atarak oyunu yönetti.",8,0,0,0,0,0,0,0
+llama3.1:8b,s07,olay,Barcelona oyuncusu sahın ortasında pas attı.,6,0,0,0,0,0,1,0
+llama3.1:8b,s08,pencere,Barcelona 10 saniyede 3 pas yaptı.,6,0,0,0,0,0,0,0
+llama3.1:8b,s09,pencere,"Barcelona, 10 saniyede 4 pas yaptı.",6,0,0,0,0,0,0,0
+llama3.1:8b,s10,olay,Barcelona oyuncusu sahın ortasında pas attı.,6,0,0,0,0,0,1,0
+llama3.1:8b,s11,pencere,"Barcelona, 10 saniyede 3 pas attı.",6,0,0,0,0,0,0,0
+llama3.1:8b,s12,pencere,"Barcelona, 96 ile sahipliğini koruyor.",5,0,0,0,0,0,0,0
+llama3.1:8b,s13,olay,"Barcelona oyuncusu orta alanda, kanat tarafında pas verdi.",8,0,0,0,0,0,1,0
+llama3.1:8b,s14,pencere,Barcelona 98'ini sahipliğinde tutuyor.,5,0,0,0,0,0,0,0

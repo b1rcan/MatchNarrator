@@ -1,0 +1,503 @@
+[
+ {
+  "id": "s01",
+  "zaman": "1:05.14",
+  "metin": "Barcelona, orta alanda kanat tarafında 14 metre pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.62,
+  "uretilen_token": 17
+ },
+ {
+  "id": "s02",
+  "zaman": "1:10.50",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 3-0 mağlup etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667",
+   "ana_60_360_1729"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.78,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s03",
+  "zaman": "1:16.78",
+  "metin": "Barcelona, sahanın uç bölgelerinden birinde 11 metrede top kaybetti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.73,
+  "uretilen_token": 21
+ },
+ {
+  "id": "s04",
+  "zaman": "1:21.50",
+  "metin": "Barcelona, orta alanda kanat tarafında 37 metre ile topu kazandı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.82,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s05",
+  "zaman": "1:30.50",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025",
+   "ana_60_360_2060",
+   "ana_60_360_2071"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.78,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s06",
+  "zaman": "1:40.50",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 2-0 mağlup etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2259",
+   "ana_60_360_2476"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.78,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s07",
+  "zaman": "1:45.58",
+  "metin": "Barcelona, sahanın ortasında 20 metre pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2627"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.66,
+  "uretilen_token": 15
+ },
+ {
+  "id": "s08",
+  "zaman": "1:50.50",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 3-0 mağlup etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2555",
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.79,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s09",
+  "zaman": "2:00.50",
+  "metin": "Barcelona, 4-0'lık skorla Espanyol'u bolgede domine etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813",
+   "ana_60_360_2968",
+   "ana_60_360_2991"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.86,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s10",
+  "zaman": "2:05.98",
+  "metin": "Barcelona, sahanın ortasında 26 metre pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3137"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.68,
+  "uretilen_token": 15
+ },
+ {
+  "id": "s11",
+  "zaman": "2:10.50",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 3-0 mağlup etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3049",
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.74,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s12",
+  "zaman": "2:20.50",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.8,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s13",
+  "zaman": "2:25.90",
+  "metin": "Barcelona, orta alanda kanat tarafında bir pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.69,
+  "uretilen_token": 14
+ },
+ {
+  "id": "s14",
+  "zaman": "2:30.50",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 2-0 mağlup etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ],
+  "model": "gemma3:4b",
+  "sure_sn": 2.81,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s01",
+  "zaman": "1:05.14",
+  "metin": "Barcelona orta alanda, kanat tarafında 14 metrelik pas attı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 2.65,
+  "uretilen_token": 19
+ },
+ {
+  "id": "s02",
+  "zaman": "1:10.50",
+  "metin": "Barcelona, Espanyol'a karşı 10. dakikada topa sahip olma yüzdesinde liderlik etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667",
+   "ana_60_360_1729"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 3.06,
+  "uretilen_token": 27
+ },
+ {
+  "id": "s03",
+  "zaman": "1:16.78",
+  "metin": "Barcelona, sahanın uç bölgelerinden birinde, kanat tarafında bulunan 11 metre mesafede topu kaybetti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 3.01,
+  "uretilen_token": 31
+ },
+ {
+  "id": "s04",
+  "zaman": "1:21.50",
+  "metin": "Espanyol orta alanda, kanat tarafında topu kaybetmiş.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 2.86,
+  "uretilen_token": 19
+ },
+ {
+  "id": "s05",
+  "zaman": "1:30.50",
+  "metin": "Barcelona, 10. dakikada Espanyole karşı 1-0 önde, %82 sahiplik yüzdesiyle topu kontrol ediyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025",
+   "ana_60_360_2060",
+   "ana_60_360_2071"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 3.33,
+  "uretilen_token": 36
+ },
+ {
+  "id": "s06",
+  "zaman": "1:40.50",
+  "metin": "Barcelona, 10. dakikada Espanyol'a karşı gol attı ve topu %100 oranıyla kontrol etti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2259",
+   "ana_60_360_2476"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 3.02,
+  "uretilen_token": 30
+ },
+ {
+  "id": "s07",
+  "zaman": "1:45.58",
+  "metin": "Barcelona oyuncusu sahada bolgeye 20 metrelik bir pas attı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2627"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 2.83,
+  "uretilen_token": 19
+ },
+ {
+  "id": "s08",
+  "zaman": "1:50.50",
+  "metin": "Barcelona, Espanyol'a karşı 3-0 kazandı ve topa %99 oranında sahip oldu.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2555",
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 2.95,
+  "uretilen_token": 25
+ },
+ {
+  "id": "s09",
+  "zaman": "2:00.50",
+  "metin": "Barcelona, 10. dakikada Espanyol'a karşı tüm topu kontrolünde tuttu ve en çok topu aldı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813",
+   "ana_60_360_2968",
+   "ana_60_360_2991"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 3.04,
+  "uretilen_token": 29
+ },
+ {
+  "id": "s10",
+  "zaman": "2:05.98",
+  "metin": "Barcelona oyuncusu sahanın ortasından 26 metre mesafede pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3137"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 2.89,
+  "uretilen_token": 20
+ },
+ {
+  "id": "s11",
+  "zaman": "2:10.50",
+  "metin": "Barcelona, Espanyol'a karşı 10. dakikada oynanan pencere maçında topu kontrol etti ve %100 sahip oldu.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3049",
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 3.15,
+  "uretilen_token": 33
+ },
+ {
+  "id": "s12",
+  "zaman": "2:20.50",
+  "metin": "Barcelona, Espanyol'a karşı 1-0 kazandı ve topa %96 oranında sahip oldu.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 2.93,
+  "uretilen_token": 25
+ },
+ {
+  "id": "s13",
+  "zaman": "2:25.90",
+  "metin": "Barcelona orta alanda, kanat tarafında bir pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 2.73,
+  "uretilen_token": 14
+ },
+ {
+  "id": "s14",
+  "zaman": "2:30.50",
+  "metin": "Barcelona, Espanyol'a karşı 10. dakikada pasla topu kontrol etti ve %98 oranında sahip oldu.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ],
+  "model": "qwen3.5:4b",
+  "sure_sn": 3.06,
+  "uretilen_token": 30
+ },
+ {
+  "id": "s01",
+  "zaman": "1:05.14",
+  "metin": "Barcelona oyuncusu orta alanda, kanat tarafında pozisyon aldı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 2.93,
+  "uretilen_token": 16
+ },
+ {
+  "id": "s02",
+  "zaman": "1:10.50",
+  "metin": "Barcelona 97'si sahipliği payına sahiptir.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667",
+   "ana_60_360_1729"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.05,
+  "uretilen_token": 16
+ },
+ {
+  "id": "s03",
+  "zaman": "1:16.78",
+  "metin": "Barcelona, sahın uç bölgelerinden birinde, kanat tarafında topu kaybediyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.37,
+  "uretilen_token": 22
+ },
+ {
+  "id": "s04",
+  "zaman": "1:21.50",
+  "metin": "Espanyol, Barcelona'nın ortada kanat bölgesinde yaptığı top kaybı ile karşılaşmayı kaybetme yolundaydı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.61,
+  "uretilen_token": 28
+ },
+ {
+  "id": "s05",
+  "zaman": "1:30.50",
+  "metin": "Barcelona, 82 ile sahipliği paylaştı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025",
+   "ana_60_360_2060",
+   "ana_60_360_2071"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.09,
+  "uretilen_token": 17
+ },
+ {
+  "id": "s06",
+  "zaman": "1:40.50",
+  "metin": "Barcelona, 10 saniyede iki pas atarak oyunu yönetti.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2259",
+   "ana_60_360_2476"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.39,
+  "uretilen_token": 19
+ },
+ {
+  "id": "s07",
+  "zaman": "1:45.58",
+  "metin": "Barcelona oyuncusu sahın ortasında pas attı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2627"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 2.95,
+  "uretilen_token": 14
+ },
+ {
+  "id": "s08",
+  "zaman": "1:50.50",
+  "metin": "Barcelona 10 saniyede 3 pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2555",
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.1,
+  "uretilen_token": 16
+ },
+ {
+  "id": "s09",
+  "zaman": "2:00.50",
+  "metin": "Barcelona, 10 saniyede 4 pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813",
+   "ana_60_360_2968",
+   "ana_60_360_2991"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.12,
+  "uretilen_token": 17
+ },
+ {
+  "id": "s10",
+  "zaman": "2:05.98",
+  "metin": "Barcelona oyuncusu sahın ortasında pas attı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3137"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 2.94,
+  "uretilen_token": 14
+ },
+ {
+  "id": "s11",
+  "zaman": "2:10.50",
+  "metin": "Barcelona, 10 saniyede 3 pas attı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3049",
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.12,
+  "uretilen_token": 16
+ },
+ {
+  "id": "s12",
+  "zaman": "2:20.50",
+  "metin": "Barcelona, 96 ile sahipliğini koruyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 2.97,
+  "uretilen_token": 15
+ },
+ {
+  "id": "s13",
+  "zaman": "2:25.90",
+  "metin": "Barcelona oyuncusu orta alanda, kanat tarafında pas verdi.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.06,
+  "uretilen_token": 16
+ },
+ {
+  "id": "s14",
+  "zaman": "2:30.50",
+  "metin": "Barcelona 98'ini sahipliğinde tutuyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ],
+  "model": "llama3.1:8b",
+  "sure_sn": 3.06,
+  "uretilen_token": 15
+ }
+]

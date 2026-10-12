@@ -1,0 +1,1388 @@
+[
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 60,
+  "bitis_sn": 70,
+  "zaman": "1:00-1:10",
+  "olay_idleri": [
+   "ana_60_360_1616",
+   "ana_60_360_1667",
+   "ana_60_360_1729"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 3,
+    "top_kaybi": 0,
+    "sahiplik_kare": 63,
+    "sahiplik_orani": 0.969
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 2,
+    "sahiplik_orani": 0.031
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 93.8,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 70,
+  "bitis_sn": 80,
+  "zaman": "1:10-1:20",
+  "olay_idleri": [
+   "ana_60_360_1907",
+   "ana_60_360_1969"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 12,
+    "sahiplik_orani": 0.169
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 59,
+    "sahiplik_orani": 0.831
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 66.2,
+  "en_cok_topu_tutan": "Espanyol"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 80,
+  "bitis_sn": 90,
+  "zaman": "1:20-1:30",
+  "olay_idleri": [
+   "ana_60_360_2025",
+   "ana_60_360_2060",
+   "ana_60_360_2071"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 1,
+    "sahiplik_kare": 31,
+    "sahiplik_orani": 0.816
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 7,
+    "sahiplik_orani": 0.184
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 63.2,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 90,
+  "bitis_sn": 100,
+  "zaman": "1:30-1:40",
+  "olay_idleri": [
+   "ana_60_360_2259",
+   "ana_60_360_2476"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 153,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 100,
+  "bitis_sn": 110,
+  "zaman": "1:40-1:50",
+  "olay_idleri": [
+   "ana_60_360_2555",
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 3,
+    "top_kaybi": 0,
+    "sahiplik_kare": 78,
+    "sahiplik_orani": 0.987
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 1,
+    "sahiplik_orani": 0.013
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 97.5,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 110,
+  "bitis_sn": 120,
+  "zaman": "1:50-2:00",
+  "olay_idleri": [
+   "ana_60_360_2751",
+   "ana_60_360_2813",
+   "ana_60_360_2968",
+   "ana_60_360_2991"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 4,
+    "top_kaybi": 0,
+    "sahiplik_kare": 77,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 120,
+  "bitis_sn": 130,
+  "zaman": "2:00-2:10",
+  "olay_idleri": [
+   "ana_60_360_3049",
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 3,
+    "top_kaybi": 0,
+    "sahiplik_kare": 61,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 130,
+  "bitis_sn": 140,
+  "zaman": "2:10-2:20",
+  "olay_idleri": [
+   "ana_60_360_3265"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 52,
+    "sahiplik_orani": 0.963
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 2,
+    "sahiplik_orani": 0.037
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 92.6,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 140,
+  "bitis_sn": 150,
+  "zaman": "2:20-2:30",
+  "olay_idleri": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 92,
+    "sahiplik_orani": 0.979
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 2,
+    "sahiplik_orani": 0.021
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 95.7,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 150,
+  "bitis_sn": 160,
+  "zaman": "2:30-2:40",
+  "olay_idleri": [
+   "ana_60_360_3925"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 81,
+    "sahiplik_orani": 0.976
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 2,
+    "sahiplik_orani": 0.024
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 95.2,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 160,
+  "bitis_sn": 170,
+  "zaman": "2:40-2:50",
+  "olay_idleri": [
+   "ana_60_360_4226"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 79,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 170,
+  "bitis_sn": 180,
+  "zaman": "2:50-3:00",
+  "olay_idleri": [
+   "ana_60_360_4450"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 18,
+    "sahiplik_orani": 0.429
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 24,
+    "sahiplik_orani": 0.571
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 14.3,
+  "en_cok_topu_tutan": "Espanyol"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 180,
+  "bitis_sn": 190,
+  "zaman": "3:00-3:10",
+  "olay_idleri": [
+   "ana_60_360_4535",
+   "ana_60_360_4584"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 3,
+    "sahiplik_orani": 0.086
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 32,
+    "sahiplik_orani": 0.914
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 82.9,
+  "en_cok_topu_tutan": "Espanyol"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 190,
+  "bitis_sn": 200,
+  "zaman": "3:10-3:20",
+  "olay_idleri": [],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 13,
+    "sahiplik_orani": 0.283
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 33,
+    "sahiplik_orani": 0.717
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 43.5,
+  "en_cok_topu_tutan": "Espanyol"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 200,
+  "bitis_sn": 210,
+  "zaman": "3:20-3:30",
+  "olay_idleri": [],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 4,
+    "sahiplik_orani": 0.098
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 37,
+    "sahiplik_orani": 0.902
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 80.5,
+  "en_cok_topu_tutan": "Espanyol"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 210,
+  "bitis_sn": 220,
+  "zaman": "3:30-3:40",
+  "olay_idleri": [
+   "ana_60_360_5497"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 97,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 220,
+  "bitis_sn": 230,
+  "zaman": "3:40-3:50",
+  "olay_idleri": [
+   "ana_60_360_5600",
+   "ana_60_360_5684"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 161,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 230,
+  "bitis_sn": 240,
+  "zaman": "3:50-4:00",
+  "olay_idleri": [
+   "ana_60_360_5802",
+   "ana_60_360_5874",
+   "ana_60_360_5959"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 3,
+    "top_kaybi": 0,
+    "sahiplik_kare": 159,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 240,
+  "bitis_sn": 250,
+  "zaman": "4:00-4:10",
+  "olay_idleri": [
+   "ana_60_360_6148",
+   "ana_60_360_6182",
+   "ana_60_360_6199",
+   "ana_60_360_6247"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 1,
+    "sahiplik_kare": 43,
+    "sahiplik_orani": 0.589
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 1,
+    "top_kaybi": 1,
+    "sahiplik_kare": 30,
+    "sahiplik_orani": 0.411
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 17.8,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 250,
+  "bitis_sn": 260,
+  "zaman": "4:10-4:20",
+  "olay_idleri": [
+   "ana_60_360_6458"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 45,
+    "sahiplik_orani": 0.75
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 15,
+    "sahiplik_orani": 0.25
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 50.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 260,
+  "bitis_sn": 270,
+  "zaman": "4:20-4:30",
+  "olay_idleri": [
+   "ana_60_360_6521"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 25,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 270,
+  "bitis_sn": 280,
+  "zaman": "4:30-4:40",
+  "olay_idleri": [
+   "ana_60_360_6907",
+   "ana_60_360_6958",
+   "ana_60_360_6991"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 62,
+    "sahiplik_orani": 0.713
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 2,
+    "sahiplik_kare": 25,
+    "sahiplik_orani": 0.287
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 42.5,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 280,
+  "bitis_sn": 290,
+  "zaman": "4:40-4:50",
+  "olay_idleri": [
+   "ana_60_360_7017",
+   "ana_60_360_7031"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 73,
+    "sahiplik_orani": 0.811
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 17,
+    "sahiplik_orani": 0.189
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 62.2,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 290,
+  "bitis_sn": 300,
+  "zaman": "4:50-5:00",
+  "olay_idleri": [
+   "ana_60_360_7263",
+   "ana_60_360_7320",
+   "ana_60_360_7403"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 47,
+    "sahiplik_orani": 0.855
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 1,
+    "top_kaybi": 1,
+    "sahiplik_kare": 8,
+    "sahiplik_orani": 0.145
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 70.9,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 300,
+  "bitis_sn": 310,
+  "zaman": "5:00-5:10",
+  "olay_idleri": [
+   "ana_60_360_7575",
+   "ana_60_360_7717"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 45,
+    "sahiplik_orani": 0.865
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 7,
+    "sahiplik_orani": 0.135
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 73.1,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 310,
+  "bitis_sn": 320,
+  "zaman": "5:10-5:20",
+  "olay_idleri": [
+   "ana_60_360_7810",
+   "ana_60_360_7818"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 36,
+    "sahiplik_orani": 0.679
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 17,
+    "sahiplik_orani": 0.321
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 35.8,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 320,
+  "bitis_sn": 330,
+  "zaman": "5:20-5:30",
+  "olay_idleri": [],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 6,
+    "sahiplik_orani": 1.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Espanyol"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 330,
+  "bitis_sn": 340,
+  "zaman": "5:30-5:40",
+  "olay_idleri": [
+   "ana_60_360_8335",
+   "ana_60_360_8425"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 39,
+    "sahiplik_orani": 0.582
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 28,
+    "sahiplik_orani": 0.418
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 16.4,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 340,
+  "bitis_sn": 350,
+  "zaman": "5:40-5:50",
+  "olay_idleri": [
+   "ana_60_360_8737"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 9,
+    "sahiplik_orani": 0.6
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 6,
+    "sahiplik_orani": 0.4
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 20.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "ana_60_360",
+  "baslangic_sn": 350,
+  "bitis_sn": 360,
+  "zaman": "5:50-6:00",
+  "olay_idleri": [
+   "ana_60_360_8802"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 10,
+    "sahiplik_orani": 0.588
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 7,
+    "sahiplik_orani": 0.412
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 17.6,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 360,
+  "bitis_sn": 370,
+  "zaman": "6:00-6:10",
+  "olay_idleri": [],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 35,
+    "sahiplik_orani": 0.897
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 4,
+    "sahiplik_orani": 0.103
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 79.5,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 370,
+  "bitis_sn": 380,
+  "zaman": "6:10-6:20",
+  "olay_idleri": [
+   "veri_360_540_9404",
+   "veri_360_540_9426",
+   "veri_360_540_9491"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 12,
+    "sahiplik_orani": 0.273
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 1,
+    "top_kaybi": 1,
+    "sahiplik_kare": 32,
+    "sahiplik_orani": 0.727
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 45.5,
+  "en_cok_topu_tutan": "Espanyol"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 380,
+  "bitis_sn": 390,
+  "zaman": "6:20-6:30",
+  "olay_idleri": [
+   "veri_360_540_9557",
+   "veri_360_540_9614"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 38,
+    "sahiplik_orani": 0.585
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 27,
+    "sahiplik_orani": 0.415
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 16.9,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 390,
+  "bitis_sn": 400,
+  "zaman": "6:30-6:40",
+  "olay_idleri": [],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 112,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 400,
+  "bitis_sn": 410,
+  "zaman": "6:40-6:50",
+  "olay_idleri": [
+   "veri_360_540_10056"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 0,
+    "sahiplik_kare": 48,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 410,
+  "bitis_sn": 420,
+  "zaman": "6:50-7:00",
+  "olay_idleri": [
+   "veri_360_540_10259",
+   "veri_360_540_10320"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 132,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 420,
+  "bitis_sn": 430,
+  "zaman": "7:00-7:10",
+  "olay_idleri": [
+   "veri_360_540_10504",
+   "veri_360_540_10657"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 73,
+    "sahiplik_orani": 0.961
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 3,
+    "sahiplik_orani": 0.039
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 92.1,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 430,
+  "bitis_sn": 440,
+  "zaman": "7:10-7:20",
+  "olay_idleri": [
+   "veri_360_540_10768",
+   "veri_360_540_10796",
+   "veri_360_540_10907",
+   "veri_360_540_10976"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 4,
+    "top_kaybi": 0,
+    "sahiplik_kare": 105,
+    "sahiplik_orani": 0.981
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 2,
+    "sahiplik_orani": 0.019
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 96.3,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 440,
+  "bitis_sn": 450,
+  "zaman": "7:20-7:30",
+  "olay_idleri": [
+   "veri_360_540_11008",
+   "veri_360_540_11060",
+   "veri_360_540_11081"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 1,
+    "sahiplik_kare": 127,
+    "sahiplik_orani": 0.962
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 5,
+    "sahiplik_orani": 0.038
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 92.4,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 450,
+  "bitis_sn": 460,
+  "zaman": "7:30-7:40",
+  "olay_idleri": [
+   "veri_360_540_11306",
+   "veri_360_540_11368"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 39,
+    "sahiplik_orani": 0.867
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 6,
+    "sahiplik_orani": 0.133
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 73.3,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 460,
+  "bitis_sn": 470,
+  "zaman": "7:40-7:50",
+  "olay_idleri": [
+   "veri_360_540_11625",
+   "veri_360_540_11679",
+   "veri_360_540_11732"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 3,
+    "top_kaybi": 0,
+    "sahiplik_kare": 78,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 470,
+  "bitis_sn": 480,
+  "zaman": "7:50-8:00",
+  "olay_idleri": [
+   "veri_360_540_11939"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 38,
+    "sahiplik_orani": 0.731
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 14,
+    "sahiplik_orani": 0.269
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 46.2,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 480,
+  "bitis_sn": 490,
+  "zaman": "8:00-8:10",
+  "olay_idleri": [
+   "veri_360_540_12033",
+   "veri_360_540_12176"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 40,
+    "sahiplik_orani": 0.563
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 31,
+    "sahiplik_orani": 0.437
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 12.7,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 490,
+  "bitis_sn": 500,
+  "zaman": "8:10-8:20",
+  "olay_idleri": [
+   "veri_360_540_12251",
+   "veri_360_540_12371",
+   "veri_360_540_12459"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 2,
+    "top_kaybi": 0,
+    "sahiplik_kare": 76,
+    "sahiplik_orani": 1.0
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 0,
+    "sahiplik_orani": 0.0
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 100.0,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 500,
+  "bitis_sn": 510,
+  "zaman": "8:20-8:30",
+  "olay_idleri": [
+   "veri_360_540_12569",
+   "veri_360_540_12612",
+   "veri_360_540_12668",
+   "veri_360_540_12736"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 4,
+    "top_kaybi": 0,
+    "sahiplik_kare": 110,
+    "sahiplik_orani": 0.991
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 1,
+    "sahiplik_orani": 0.009
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 98.2,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 510,
+  "bitis_sn": 520,
+  "zaman": "8:30-8:40",
+  "olay_idleri": [
+   "veri_360_540_12832",
+   "veri_360_540_12874",
+   "veri_360_540_12889"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 3,
+    "top_kaybi": 0,
+    "sahiplik_kare": 90,
+    "sahiplik_orani": 0.968
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 3,
+    "sahiplik_orani": 0.032
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 93.5,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 520,
+  "bitis_sn": 530,
+  "zaman": "8:40-8:50",
+  "olay_idleri": [
+   "veri_360_540_13101",
+   "veri_360_540_13186"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 1,
+    "top_kaybi": 1,
+    "sahiplik_kare": 44,
+    "sahiplik_orani": 0.657
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 0,
+    "sahiplik_kare": 23,
+    "sahiplik_orani": 0.343
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 31.3,
+  "en_cok_topu_tutan": "Barcelona"
+ },
+ {
+  "kaynak": "veri_360_540",
+  "baslangic_sn": 530,
+  "bitis_sn": 540,
+  "zaman": "8:50-9:00",
+  "olay_idleri": [
+   "veri_360_540_13253",
+   "veri_360_540_13321"
+  ],
+  "takimlar": {
+   "A": {
+    "ad": "Barcelona",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 100,
+    "sahiplik_orani": 0.833
+   },
+   "B": {
+    "ad": "Espanyol",
+    "pas": 0,
+    "top_kaybi": 1,
+    "sahiplik_kare": 20,
+    "sahiplik_orani": 0.167
+   }
+  },
+  "sahiplik_kaynagi": "possession.csv kare orani",
+  "fark_puan": 66.7,
+  "en_cok_topu_tutan": "Barcelona"
+ }
+]

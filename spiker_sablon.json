@@ -1,0 +1,127 @@
+[
+ {
+  "id": "s01",
+  "zaman": "1:05.14",
+  "metin": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616"
+  ]
+ },
+ {
+  "id": "s02",
+  "zaman": "1:10.50",
+  "metin": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667",
+   "ana_60_360_1729"
+  ]
+ },
+ {
+  "id": "s03",
+  "zaman": "1:16.78",
+  "metin": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ]
+ },
+ {
+  "id": "s04",
+  "zaman": "1:21.50",
+  "metin": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ]
+ },
+ {
+  "id": "s05",
+  "zaman": "1:30.50",
+  "metin": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025",
+   "ana_60_360_2060",
+   "ana_60_360_2071"
+  ]
+ },
+ {
+  "id": "s06",
+  "zaman": "1:40.50",
+  "metin": "Son on saniyede Barcelona 2 pas, Espanyol 0 pas yaptı.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2259",
+   "ana_60_360_2476"
+  ]
+ },
+ {
+  "id": "s07",
+  "zaman": "1:45.58",
+  "metin": "Barcelona oyunu sahanın ortasında sürdürüyor gibi görünüyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2627"
+  ]
+ },
+ {
+  "id": "s08",
+  "zaman": "1:50.50",
+  "metin": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2555",
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ]
+ },
+ {
+  "id": "s09",
+  "zaman": "2:00.50",
+  "metin": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813",
+   "ana_60_360_2968",
+   "ana_60_360_2991"
+  ]
+ },
+ {
+  "id": "s10",
+  "zaman": "2:05.98",
+  "metin": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "s11",
+  "zaman": "2:10.50",
+  "metin": "Barcelona bu bölümde 3 pas yaptı, top kaybı sayısı 0.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3049",
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "s12",
+  "zaman": "2:20.50",
+  "metin": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "s13",
+  "zaman": "2:25.90",
+  "metin": "Barcelona orta alanda, kanat tarafında pas yapmış gibi görünüyor.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635"
+  ]
+ },
+ {
+  "id": "s14",
+  "zaman": "2:30.50",
+  "metin": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ }
+]

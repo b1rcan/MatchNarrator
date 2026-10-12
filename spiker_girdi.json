@@ -1,0 +1,320 @@
+[
+ {
+  "id": "s01",
+  "zaman_sn": 65.14,
+  "zaman": "1:05.14",
+  "tur": "olay",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616"
+  ],
+  "olgu": {
+   "tur": "olay",
+   "tip": "PAS",
+   "takim": "Barcelona",
+   "mesafe_m": 14,
+   "bolge": "orta alanda, kanat tarafında"
+  }
+ },
+ {
+  "id": "s02",
+  "zaman_sn": 70.5,
+  "zaman": "1:10.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667",
+   "ana_60_360_1729"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 3,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 0,
+    "Espanyol": 0
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 97,
+    "Espanyol": 3
+   }
+  }
+ },
+ {
+  "id": "s03",
+  "zaman_sn": 76.78,
+  "zaman": "1:16.78",
+  "tur": "olay",
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ],
+  "olgu": {
+   "tur": "olay",
+   "tip": "TOP KAYBI",
+   "topu_kaybeden_takim": "Barcelona",
+   "topu_alan_takim": "Espanyol",
+   "mesafe_m": 11,
+   "bolge": "sahanın uç bölgelerinden birinde, kanat tarafında"
+  }
+ },
+ {
+  "id": "s04",
+  "zaman_sn": 81.5,
+  "zaman": "1:21.50",
+  "tur": "olay",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ],
+  "olgu": {
+   "tur": "olay",
+   "tip": "TOP KAYBI",
+   "topu_kaybeden_takim": "Espanyol",
+   "topu_alan_takim": "Barcelona",
+   "mesafe_m": 37,
+   "bolge": "orta alanda, kanat tarafında"
+  }
+ },
+ {
+  "id": "s05",
+  "zaman_sn": 90.5,
+  "zaman": "1:30.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_2025",
+   "ana_60_360_2060",
+   "ana_60_360_2071"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 1,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 1,
+    "Espanyol": 1
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 82,
+    "Espanyol": 18
+   }
+  }
+ },
+ {
+  "id": "s06",
+  "zaman_sn": 100.5,
+  "zaman": "1:40.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_2259",
+   "ana_60_360_2476"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 2,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 0,
+    "Espanyol": 0
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 100,
+    "Espanyol": 0
+   }
+  }
+ },
+ {
+  "id": "s07",
+  "zaman_sn": 105.58,
+  "zaman": "1:45.58",
+  "tur": "olay",
+  "kaynak_olay_ids": [
+   "ana_60_360_2627"
+  ],
+  "olgu": {
+   "tur": "olay",
+   "tip": "PAS",
+   "takim": "Barcelona",
+   "mesafe_m": 20,
+   "bolge": "sahanın ortasında"
+  }
+ },
+ {
+  "id": "s08",
+  "zaman_sn": 110.5,
+  "zaman": "1:50.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_2555",
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 3,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 0,
+    "Espanyol": 0
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 99,
+    "Espanyol": 1
+   }
+  }
+ },
+ {
+  "id": "s09",
+  "zaman_sn": 120.5,
+  "zaman": "2:00.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813",
+   "ana_60_360_2968",
+   "ana_60_360_2991"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 4,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 0,
+    "Espanyol": 0
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 100,
+    "Espanyol": 0
+   }
+  }
+ },
+ {
+  "id": "s10",
+  "zaman_sn": 125.98,
+  "zaman": "2:05.98",
+  "tur": "olay",
+  "kaynak_olay_ids": [
+   "ana_60_360_3137"
+  ],
+  "olgu": {
+   "tur": "olay",
+   "tip": "PAS",
+   "takim": "Barcelona",
+   "mesafe_m": 26,
+   "bolge": "sahanın ortasında"
+  }
+ },
+ {
+  "id": "s11",
+  "zaman_sn": 130.5,
+  "zaman": "2:10.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_3049",
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 3,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 0,
+    "Espanyol": 0
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 100,
+    "Espanyol": 0
+   }
+  }
+ },
+ {
+  "id": "s12",
+  "zaman_sn": 140.5,
+  "zaman": "2:20.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 1,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 0,
+    "Espanyol": 0
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 96,
+    "Espanyol": 4
+   }
+  }
+ },
+ {
+  "id": "s13",
+  "zaman_sn": 145.9,
+  "zaman": "2:25.90",
+  "tur": "olay",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635"
+  ],
+  "olgu": {
+   "tur": "olay",
+   "tip": "PAS",
+   "takim": "Barcelona",
+   "bolge": "orta alanda, kanat tarafında"
+  }
+ },
+ {
+  "id": "s14",
+  "zaman_sn": 150.5,
+  "zaman": "2:30.50",
+  "tur": "pencere",
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ],
+  "olgu": {
+   "tur": "pencere",
+   "sure_sn": 10,
+   "pas": {
+    "Barcelona": 2,
+    "Espanyol": 0
+   },
+   "top_kaybi": {
+    "Barcelona": 0,
+    "Espanyol": 0
+   },
+   "en_cok_topu_tutan": "Barcelona",
+   "sahiplik_yuzde": {
+    "Barcelona": 98,
+    "Espanyol": 2
+   }
+  }
+ }
+]
