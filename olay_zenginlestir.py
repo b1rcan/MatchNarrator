@@ -12,6 +12,7 @@ Hucum yonu bilinmedigi icin yon x ekseninde isaretle (+x / -x) verilir; 'savunma
 dusuk_x / orta / yuksek_x olarak adlandirilir.
 Top hizi: events.csv'deki hiz_ms = max(mesafe - 1.5, 0) / bosluk_sn (yaklasik; ayak-top ofseti ~1.5 m dusulmus).
 """
+import argparse
 import json
 import os
 
@@ -22,6 +23,12 @@ import pandas as pd
 HERE = os.path.dirname(os.path.abspath(__file__))
 FPS = 25.0
 PITCH_L, PITCH_W = 105.0, 68.0
+_ap = argparse.ArgumentParser()
+_ap.add_argument("--config", default=os.path.join(HERE, "config_takimlar.json"),
+                 help="takim adlari {\"A\": ..., \"B\": ...}; dosya yoksa takim adi alani EKLENMEZ (cikti eskisi gibi)")
+_ap.add_argument("--out", default=os.path.join(HERE, "olaylar_zengin.json"))
+_args = _ap.parse_args()
+TEAM_NAMES = json.load(open(_args.config, encoding="utf-8")) if os.path.exists(_args.config) else {}
 SOURCES = {"ana_60_360": HERE, "veri_360_540": os.path.join(HERE, "veri_360_540")}
 
 
@@ -93,6 +100,8 @@ for src, d in SOURCES.items():
     HOMO = dict(zip(hdf.frame.astype(int), hdf[[f"h{i}" for i in range(9)]].to_numpy(np.float64).reshape(-1, 3, 3)))
     pidx = players.set_index(["frame", "track_id"]).sort_index()
     colors = team_colors(players, fixed, teams)
+    if TEAM_NAMES:                                   # config varsa takim adi eklenir (renk bilgisi ayri kalir)
+        colors = {k: ({"ad": TEAM_NAMES[k]} | v if k in TEAM_NAMES else v) for k, v in colors.items()}
 
     def foot(f, tid):
         """(x_px, y_px, kutu_yuksekligi_px) veya None"""
@@ -147,8 +156,14 @@ for src, d in SOURCES.items():
                        yeni_sahip_seri_kare=int(cj.alici_kare.iloc[0]) if len(cj) else None,
                        homografi_durum_olay_kare={1: "bu karede hesaplandi", 2: "onceki gecerli homografi", 0: "yok"}.get(hdur.get(f_ev), None))))
 
-with open(os.path.join(HERE, "olaylar_zengin.json"), "w", encoding="utf-8") as fh:
+if TEAM_NAMES:                                       # kimden/kime icin takim_adi (yalniz config varsa)
+    for r in records:
+        for k in ("kimden", "kime"):
+            t = r[k]["takim"]
+            if t in TEAM_NAMES:
+                r[k]["takim_adi"] = TEAM_NAMES[t]
+with open(_args.out, "w", encoding="utf-8") as fh:
     json.dump(records, fh, ensure_ascii=False, indent=1)
-print(f"{len(records)} olay yazildi -> olaylar_zengin.json")
+print(f"{len(records)} olay yazildi -> {_args.out}")
 miss = sum(r["konum_baslangic_m"] is None or r["konum_bitis_m"] is None for r in records)
 print(f"konum eksik (null) olay: {miss}; saha disi konum isaretli: {sum(any(v is False for v in r['konum_saha_icinde'].values()) for r in records)}")
