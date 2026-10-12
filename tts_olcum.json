@@ -1,0 +1,104 @@
+{
+ "model": "ChatterboxMultilingualTTS (chatterbox-tts)",
+ "dil": "tr",
+ "yukleme_sn": 151.7,
+ "vram_once_mib": 0,
+ "vram_model_yuklu_mib": 3181,
+ "vram_tepe_nvsmi_mib": 3587,
+ "torch_tepe_ayrilan_mib": 3248,
+ "ilk_cumle_sn": 14.95,
+ "ort_uretim_sn_ilk_haric": 2.94,
+ "ort_ses_suresi_sn": 3.72,
+ "cumleler": [
+  {
+   "id": "v01",
+   "metin": "Barcelona art arda 2 pas yapmış gibi görünüyor.",
+   "uretim_sn": 14.95,
+   "ses_suresi_sn": 3.64,
+   "rtf": 4.11,
+   "dosya": "cumle_01_v01.wav",
+   "vram_nvsmi_mib": 3435
+  },
+  {
+   "id": "v02",
+   "metin": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+   "uretim_sn": 2.78,
+   "ses_suresi_sn": 3.04,
+   "rtf": 0.91,
+   "dosya": "cumle_02_v02.wav",
+   "vram_nvsmi_mib": 3435
+  },
+  {
+   "id": "v03",
+   "metin": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+   "uretim_sn": 2.27,
+   "ses_suresi_sn": 2.8,
+   "rtf": 0.81,
+   "dosya": "cumle_03_v03.wav",
+   "vram_nvsmi_mib": 3435
+  },
+  {
+   "id": "v04",
+   "metin": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+   "uretim_sn": 3.09,
+   "ses_suresi_sn": 4.08,
+   "rtf": 0.76,
+   "dosya": "cumle_04_v04.wav",
+   "vram_nvsmi_mib": 3475
+  },
+  {
+   "id": "v05",
+   "metin": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+   "uretim_sn": 3.84,
+   "ses_suresi_sn": 4.92,
+   "rtf": 0.78,
+   "dosya": "cumle_05_v05.wav",
+   "vram_nvsmi_mib": 3487
+  },
+  {
+   "id": "v06",
+   "metin": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+   "uretim_sn": 2.86,
+   "ses_suresi_sn": 3.64,
+   "rtf": 0.79,
+   "dosya": "cumle_06_v06.wav",
+   "vram_nvsmi_mib": 3487
+  },
+  {
+   "id": "v07",
+   "metin": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+   "uretim_sn": 4.06,
+   "ses_suresi_sn": 5.44,
+   "rtf": 0.75,
+   "dosya": "cumle_07_v07.wav",
+   "vram_nvsmi_mib": 3587
+  },
+  {
+   "id": "v08",
+   "metin": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+   "uretim_sn": 3.03,
+   "ses_suresi_sn": 3.96,
+   "rtf": 0.77,
+   "dosya": "cumle_08_v08.wav",
+   "vram_nvsmi_mib": 3587
+  },
+  {
+   "id": "v09",
+   "metin": "Barcelona art arda 3 pas yapmış gibi görünüyor.",
+   "uretim_sn": 2.2,
+   "ses_suresi_sn": 2.8,
+   "rtf": 0.79,
+   "dosya": "cumle_09_v09.wav",
+   "vram_nvsmi_mib": 3587
+  },
+  {
+   "id": "v11",
+   "metin": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+   "uretim_sn": 2.32,
+   "ses_suresi_sn": 2.88,
+   "rtf": 0.81,
+   "dosya": "cumle_10_v11.wav",
+   "vram_nvsmi_mib": 3587
+  }
+ ]
+}

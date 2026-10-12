@@ -1,0 +1,1619 @@
+[
+ {
+  "id": "v01",
+  "zaman": "1:07.18",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona art arda 2 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona, sahanın ortasında 2 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın ortasında 2 pas yaptı."
+  ],
+  "sure_sn": 3.13,
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667"
+  ]
+ },
+ {
+  "id": "v02",
+  "zaman": "1:11.18",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona, orta alanda kanat tarafında 19 metre pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda kanat tarafında 19 metre pas yaptı."
+  ],
+  "sure_sn": 2.72,
+  "kaynak_olay_ids": [
+   "ana_60_360_1729"
+  ]
+ },
+ {
+  "id": "v03",
+  "zaman": "1:16.78",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "metin": "Barcelona, sahanın uç bölgelerinden birinde 11 metrede top kaybetti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın uç bölgelerinden birinde 11 metrede top kaybetti."
+  ],
+  "sure_sn": 2.8,
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ]
+ },
+ {
+  "id": "v04",
+  "zaman": "1:21.50",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+  "metin": "Barcelona, orta alanda kanat tarafında 37 metre ile topu kazandı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda kanat tarafında 37 metre ile topu kazandı."
+  ],
+  "sure_sn": 2.82,
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ]
+ },
+ {
+  "id": "v05",
+  "zaman": "1:30.86",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "metin": "Barcelona, sahanın uç bölgelerinden birinde 21 metre pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın uç bölgelerinden birinde 21 metre pas yaptı."
+  ],
+  "sure_sn": 2.74,
+  "kaynak_olay_ids": [
+   "ana_60_360_2259"
+  ]
+ },
+ {
+  "id": "v06",
+  "zaman": "1:42.70",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona, orta alanda, kanat tarafında 2 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda, kanat tarafında 2 pas yaptı."
+  ],
+  "sure_sn": 2.69,
+  "kaynak_olay_ids": [
+   "ana_60_360_2476",
+   "ana_60_360_2555"
+  ]
+ },
+ {
+  "id": "v07",
+  "zaman": "1:48.18",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Barcelona, orta alanda, kanat tarafında 2 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda, kanat tarafında 2 pas yaptı."
+  ],
+  "sure_sn": 2.6,
+  "kaynak_olay_ids": [
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ]
+ },
+ {
+  "id": "v08",
+  "zaman": "1:53.02",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona, orta alanda, kanat tarafında 2 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda, kanat tarafında 2 pas yaptı."
+  ],
+  "sure_sn": 2.6,
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813"
+  ]
+ },
+ {
+  "id": "v09",
+  "zaman": "2:02.46",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona art arda 3 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona, sahanın ortasında 3 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın ortasında 3 pas yaptı."
+  ],
+  "sure_sn": 2.68,
+  "kaynak_olay_ids": [
+   "ana_60_360_2968",
+   "ana_60_360_2991",
+   "ana_60_360_3049"
+  ]
+ },
+ {
+  "id": "v10",
+  "zaman": "2:06.46",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona, sahanın ortasında 2 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın ortasında 2 pas yaptı."
+  ],
+  "sure_sn": 2.72,
+  "kaynak_olay_ids": [
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "v11",
+  "zaman": "2:11.10",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "metin": "Barcelona, sahanın ortasında 15 metre pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın ortasında 15 metre pas yaptı."
+  ],
+  "sure_sn": 2.61,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v12",
+  "zaman": "2:20.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti."
+  ],
+  "sure_sn": 2.83,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v13",
+  "zaman": "2:27.42",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Barcelona, sahanın ortasında 2 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın ortasında 2 pas yaptı."
+  ],
+  "sure_sn": 2.55,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v14",
+  "zaman": "2:31.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 2-0 mağlup etti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, pas oyunuyla Espanyol'u 2-0 mağlup etti."
+  ],
+  "sure_sn": 2.86,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v15",
+  "zaman": "2:37.50",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona, orta alanda kanat tarafında 14 metre pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda kanat tarafında 14 metre pas yaptı."
+  ],
+  "sure_sn": 2.68,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v16",
+  "zaman": "2:41.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Son on saniyede Barcelona 1 pas, Espanyol 0 pas yaptı.",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti."
+  ],
+  "sure_sn": 2.78,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v17",
+  "zaman": "2:49.54",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona sahanın ortasında pas yapmış gibi görünüyor.",
+  "metin": "Barcelona, sahanın ortasında 18 metre pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın ortasında 18 metre pas yaptı."
+  ],
+  "sure_sn": 2.67,
+  "kaynak_olay_ids": [
+   "ana_60_360_4226"
+  ]
+ },
+ {
+  "id": "v18",
+  "zaman": "2:58.50",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Espanyol topu yaklaşık 24 metre taşımış gibi duruyor.",
+  "metin": "Espanyol, sahanın ortasında 24 metre pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol, sahanın ortasında 24 metre pas yaptı."
+  ],
+  "sure_sn": 2.69,
+  "kaynak_olay_ids": [
+   "ana_60_360_4450"
+  ]
+ },
+ {
+  "id": "v19",
+  "zaman": "6:10.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Barcelona, topa sahip olma yüzdesinin %90'ı ile oyunu kontrol etti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona, topa sahip olma yüzdesinin %90'ı ile oyunu kontrol etti."
+  ],
+  "sure_sn": 2.8,
+  "kaynak_olay_ids": []
+ },
+ {
+  "id": "v20",
+  "zaman": "6:16.66",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Espanyol burada topu rakibe kaptırmış gibi görünüyor.",
+  "metin": "Barcelona, orta alanda kanat tarafında 6 metre ile topu kazandı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda kanat tarafında 6 metre ile topu kazandı."
+  ],
+  "sure_sn": 2.74,
+  "kaynak_olay_ids": [
+   "veri_360_540_9404"
+  ]
+ },
+ {
+  "id": "v21",
+  "zaman": "6:22.78",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde.",
+  "metin": "Barcelona, orta alanda kanat tarafında 12 metre ile topu kazandı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda kanat tarafında 12 metre ile topu kazandı."
+  ],
+  "sure_sn": 2.75,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557"
+  ]
+ },
+ {
+  "id": "v22",
+  "zaman": "6:30.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, pas oyunuyla Espanyol'u 1-0 mağlup etti."
+  ],
+  "sure_sn": 2.77,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557",
+   "veri_360_540_9614"
+  ]
+ },
+ {
+  "id": "v23",
+  "zaman": "6:42.74",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona, sahanın ortasında 20 metre pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın ortasında 20 metre pas yaptı."
+  ],
+  "sure_sn": 2.74,
+  "kaynak_olay_ids": [
+   "veri_360_540_10056"
+  ]
+ },
+ {
+  "id": "v24",
+  "zaman": "6:53.30",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona, orta alanda, kanat tarafında 2 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, orta alanda, kanat tarafında 2 pas yaptı."
+  ],
+  "sure_sn": 2.74,
+  "kaynak_olay_ids": [
+   "veri_360_540_10259",
+   "veri_360_540_10320"
+  ]
+ },
+ {
+  "id": "v01",
+  "zaman": "1:07.18",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona art arda 2 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahada pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahada pas yaptı."
+  ],
+  "sure_sn": 2.5,
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667"
+  ]
+ },
+ {
+  "id": "v02",
+  "zaman": "1:11.18",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında 19 metrelik pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında 19 metrelik pas yaptı."
+  ],
+  "sure_sn": 2.59,
+  "kaynak_olay_ids": [
+   "ana_60_360_1729"
+  ]
+ },
+ {
+  "id": "v03",
+  "zaman": "1:16.78",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "metin": "Barcelona, sahanın uç bölgelerinden birinde, kanat tarafında bulunan 11 metre mesafede topu kaybetti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahanın uç bölgelerinden birinde, kanat tarafında bulunan 11 metre mesafede topu kaybetti."
+  ],
+  "sure_sn": 3.07,
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ]
+ },
+ {
+  "id": "v04",
+  "zaman": "1:21.50",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+  "metin": "Espanyol orta alanda, kanat tarafında topu kaybetmiş.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol orta alanda, kanat tarafında topu kaybetmiş."
+  ],
+  "sure_sn": 2.83,
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ]
+ },
+ {
+  "id": "v05",
+  "zaman": "1:30.86",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahanın uç bölgelerinden birinde 21 metrelik mesafeden pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahanın uç bölgelerinden birinde 21 metrelik mesafeden pas attı."
+  ],
+  "sure_sn": 2.96,
+  "kaynak_olay_ids": [
+   "ana_60_360_2259"
+  ]
+ },
+ {
+  "id": "v06",
+  "zaman": "1:42.70",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında iki pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında iki pas yaptı."
+  ],
+  "sure_sn": 2.75,
+  "kaynak_olay_ids": [
+   "ana_60_360_2476",
+   "ana_60_360_2555"
+  ]
+ },
+ {
+  "id": "v07",
+  "zaman": "1:48.18",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Barcelona orta alanda, kanat tarafında iki pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında iki pas yaptı."
+  ],
+  "sure_sn": 2.6,
+  "kaynak_olay_ids": [
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ]
+ },
+ {
+  "id": "v08",
+  "zaman": "1:53.02",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında iki pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında iki pas yaptı."
+  ],
+  "sure_sn": 2.63,
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813"
+  ]
+ },
+ {
+  "id": "v09",
+  "zaman": "2:02.46",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona art arda 3 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahada pas sayısını üçe çıkardı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahada pas sayısını üçe çıkardı."
+  ],
+  "sure_sn": 2.8,
+  "kaynak_olay_ids": [
+   "ana_60_360_2968",
+   "ana_60_360_2991",
+   "ana_60_360_3049"
+  ]
+ },
+ {
+  "id": "v10",
+  "zaman": "2:06.46",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahada pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahada pas yaptı."
+  ],
+  "sure_sn": 2.61,
+  "kaynak_olay_ids": [
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "v11",
+  "zaman": "2:11.10",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "metin": "Barcelona oyuncusu sahada 15 metrelik mesafeden orta bölgede pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahada 15 metrelik mesafeden orta bölgede pas yaptı."
+  ],
+  "sure_sn": 2.92,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v12",
+  "zaman": "2:20.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Barcelona, Espanyol'a karşı 1-0 kazandı ve topa %96 oranında sahip oldu.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, Espanyol'a karşı 1-0 kazandı ve topa %96 oranında sahip oldu."
+  ],
+  "sure_sn": 3.09,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v13",
+  "zaman": "2:27.42",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Barcelona oyuncusu sahada pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahada pas yaptı."
+  ],
+  "sure_sn": 2.67,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v14",
+  "zaman": "2:31.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Barcelona, Espanyol'a karşı 10. dakikada pasla topu kontrol etti ve %98 oranında sahip oldu.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, Espanyol'a karşı 10. dakikada pasla topu kontrol etti ve %98 oranında sahip oldu."
+  ],
+  "sure_sn": 3.16,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v15",
+  "zaman": "2:37.50",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında 14 metrelik pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında 14 metrelik pas attı."
+  ],
+  "sure_sn": 2.94,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v16",
+  "zaman": "2:41.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Son on saniyede Barcelona 1 pas, Espanyol 0 pas yaptı.",
+  "metin": "Barcelona, Espanyol'a karşı 1-0 kazandı ve topa %98 oranında sahip oldu.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, Espanyol'a karşı 1-0 kazandı ve topa %98 oranında sahip oldu."
+  ],
+  "sure_sn": 3.11,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v17",
+  "zaman": "2:49.54",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona sahanın ortasında pas yapmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahanın ortasından 18 metre mesafede pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahanın ortasından 18 metre mesafede pas yaptı."
+  ],
+  "sure_sn": 2.9,
+  "kaynak_olay_ids": [
+   "ana_60_360_4226"
+  ]
+ },
+ {
+  "id": "v18",
+  "zaman": "2:58.50",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Espanyol topu yaklaşık 24 metre taşımış gibi duruyor.",
+  "metin": "Espanyol, sahanın ortasından 24 metreye bir pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol, sahanın ortasından 24 metreye bir pas yaptı."
+  ],
+  "sure_sn": 2.97,
+  "kaynak_olay_ids": [
+   "ana_60_360_4450"
+  ]
+ },
+ {
+  "id": "v19",
+  "zaman": "6:10.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Barcelona, Espanyol'a karşı oynanan pencere turunda topu kontrol altında tuttu.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, Espanyol'a karşı oynanan pencere turunda topu kontrol altında tuttu."
+  ],
+  "sure_sn": 2.93,
+  "kaynak_olay_ids": []
+ },
+ {
+  "id": "v20",
+  "zaman": "6:16.66",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Espanyol burada topu rakibe kaptırmış gibi görünüyor.",
+  "metin": "Espanyol orta alanda, kanat tarafında 6 metreden topu kaybetti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol orta alanda, kanat tarafında 6 metreden topu kaybetti."
+  ],
+  "sure_sn": 2.9,
+  "kaynak_olay_ids": [
+   "veri_360_540_9404"
+  ]
+ },
+ {
+  "id": "v21",
+  "zaman": "6:22.78",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde.",
+  "metin": "Espanyol orta alanda, kanat tarafında topu kaybetmiş durumda.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol orta alanda, kanat tarafında topu kaybetmiş durumda."
+  ],
+  "sure_sn": 2.89,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557"
+  ]
+ },
+ {
+  "id": "v22",
+  "zaman": "6:30.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Barcelona, Espanyol'a karşı 1-0 kazandı ve topa sahip olma yüzdesinde lider oldu.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "b_yasak",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, Espanyol'a karşı 1-0 kazandı ve topa sahip olma yüzdesinde lider oldu."
+  ],
+  "sure_sn": 2.97,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557",
+   "veri_360_540_9614"
+  ]
+ },
+ {
+  "id": "v23",
+  "zaman": "6:42.74",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahada bolgeye 20 metrelik bir pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahada bolgeye 20 metrelik bir pas attı."
+  ],
+  "sure_sn": 2.79,
+  "kaynak_olay_ids": [
+   "veri_360_540_10056"
+  ]
+ },
+ {
+  "id": "v24",
+  "zaman": "6:53.30",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında iki pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında iki pas yaptı."
+  ],
+  "sure_sn": 2.68,
+  "kaynak_olay_ids": [
+   "veri_360_540_10259",
+   "veri_360_540_10320"
+  ]
+ },
+ {
+  "id": "v01",
+  "zaman": "1:07.18",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona art arda 2 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona, sahının ortasında iki pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahının ortasında iki pas yaptı."
+  ],
+  "sure_sn": 2.83,
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667"
+  ]
+ },
+ {
+  "id": "v02",
+  "zaman": "1:11.18",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu orta alanda, kanat tarafında pozisyon aldı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu orta alanda, kanat tarafında pozisyon aldı."
+  ],
+  "sure_sn": 3.03,
+  "kaynak_olay_ids": [
+   "ana_60_360_1729"
+  ]
+ },
+ {
+  "id": "v03",
+  "zaman": "1:16.78",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "metin": "Barcelona, sahın uç bölgelerinden birinde, kanat tarafında topu kaybediyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahın uç bölgelerinden birinde, kanat tarafında topu kaybediyor."
+  ],
+  "sure_sn": 3.33,
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ]
+ },
+ {
+  "id": "v04",
+  "zaman": "1:21.50",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+  "metin": "Espanyol, Barcelona'nın ortada kanat bölgesinde toplunu kaybederek topu kaybetti.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol, Barcelona'nın ortada kanat bölgesinde toplunu kaybederek topu kaybetti."
+  ],
+  "sure_sn": 3.45,
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ]
+ },
+ {
+  "id": "v05",
+  "zaman": "1:30.86",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahın uç bölgelerinden birinde bir pas atıyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahın uç bölgelerinden birinde bir pas atıyor."
+  ],
+  "sure_sn": 3.08,
+  "kaynak_olay_ids": [
+   "ana_60_360_2259"
+  ]
+ },
+ {
+  "id": "v06",
+  "zaman": "1:42.70",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona oyuncusu orta alanda, kanat tarafında iki pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu orta alanda, kanat tarafında iki pas attı."
+  ],
+  "sure_sn": 3.13,
+  "kaynak_olay_ids": [
+   "ana_60_360_2476",
+   "ana_60_360_2555"
+  ]
+ },
+ {
+  "id": "v07",
+  "zaman": "1:48.18",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Barcelona oyuncusu orta alanda, kanat tarafında iki pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu orta alanda, kanat tarafında iki pas attı."
+  ],
+  "sure_sn": 3.07,
+  "kaynak_olay_ids": [
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ]
+ },
+ {
+  "id": "v08",
+  "zaman": "1:53.02",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona oyuncusu orta alanda, kanat tarafında iki pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu orta alanda, kanat tarafında iki pas attı."
+  ],
+  "sure_sn": 3.09,
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813"
+  ]
+ },
+ {
+  "id": "v09",
+  "zaman": "2:02.46",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona art arda 3 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona, sahının ortasında 3 pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahının ortasında 3 pas yaptı."
+  ],
+  "sure_sn": 3.08,
+  "kaynak_olay_ids": [
+   "ana_60_360_2968",
+   "ana_60_360_2991",
+   "ana_60_360_3049"
+  ]
+ },
+ {
+  "id": "v10",
+  "zaman": "2:06.46",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona oyuncuları sahın ortasında iki kez pas verdiler.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncuları sahın ortasında iki kez pas verdiler."
+  ],
+  "sure_sn": 3.24,
+  "kaynak_olay_ids": [
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "v11",
+  "zaman": "2:11.10",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "metin": "Barcelona oyuncusu sahın ortasında pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahın ortasında pas attı."
+  ],
+  "sure_sn": 2.94,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v12",
+  "zaman": "2:20.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Barcelona, 96 ile sahipliğini koruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona, 96 ile sahipliğini koruyor."
+  ],
+  "sure_sn": 3.08,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v13",
+  "zaman": "2:27.42",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Barcelona, sahının ortasında iki pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona, sahının ortasında iki pas yaptı."
+  ],
+  "sure_sn": 2.9,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v14",
+  "zaman": "2:31.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Barcelona 98'ini sahiplendiriyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona 98'ini sahiplendiriyor."
+  ],
+  "sure_sn": 2.96,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v15",
+  "zaman": "2:37.50",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu orta alanda, kanat tarafında bir pas gerçekleştirdi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu orta alanda, kanat tarafında bir pas gerçekleştirdi."
+  ],
+  "sure_sn": 3.24,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v16",
+  "zaman": "2:41.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Son on saniyede Barcelona 1 pas, Espanyol 0 pas yaptı.",
+  "metin": "Barcelona 98 ile sahipliği paylaştı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona 98 ile sahipliği paylaştı."
+  ],
+  "sure_sn": 3.01,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v17",
+  "zaman": "2:49.54",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona sahanın ortasında pas yapmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahın ortasında pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahın ortasında pas attı."
+  ],
+  "sure_sn": 2.97,
+  "kaynak_olay_ids": [
+   "ana_60_360_4226"
+  ]
+ },
+ {
+  "id": "v18",
+  "zaman": "2:58.50",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Espanyol topu yaklaşık 24 metre taşımış gibi duruyor.",
+  "metin": "Espanyol oyuncusu sahın ortasında pas yaptı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol oyuncusu sahın ortasında pas yaptı."
+  ],
+  "sure_sn": 3.08,
+  "kaynak_olay_ids": [
+   "ana_60_360_4450"
+  ]
+ },
+ {
+  "id": "v19",
+  "zaman": "6:10.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Barcelona, sahipliği 90 ile sürdürüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona, sahipliği 90 ile sürdürüyor."
+  ],
+  "sure_sn": 3.08,
+  "kaynak_olay_ids": []
+ },
+ {
+  "id": "v20",
+  "zaman": "6:16.66",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Espanyol burada topu rakibe kaptırmış gibi görünüyor.",
+  "metin": "Espanyol, Barcelona'nın ortada kanat bölgesinde attığı topu kaybederek top kaybı yaşadı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol, Barcelona'nın ortada kanat bölgesinde attığı topu kaybederek top kaybı yaşadı."
+  ],
+  "sure_sn": 3.55,
+  "kaynak_olay_ids": [
+   "veri_360_540_9404"
+  ]
+ },
+ {
+  "id": "v21",
+  "zaman": "6:22.78",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde.",
+  "metin": "Espanyol, Barcelona'nın ortada kanat bölgesinde toplunu ele geçirdi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "c_olgu",
+    "hedge_kayip",
+    "takim_degisti"
+   ]
+  ],
+  "denemeler": [
+   "Espanyol, Barcelona'nın ortada kanat bölgesinde toplunu ele geçirdi."
+  ],
+  "sure_sn": 3.58,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557"
+  ]
+ },
+ {
+  "id": "v22",
+  "zaman": "6:30.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Barcelona, sahipliğinde 58 puan topladı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona, sahipliğinde 58 puan topladı."
+  ],
+  "sure_sn": 3.1,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557",
+   "veri_360_540_9614"
+  ]
+ },
+ {
+  "id": "v23",
+  "zaman": "6:42.74",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona oyuncusu sahın ortasında pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncusu sahın ortasında pas attı."
+  ],
+  "sure_sn": 2.94,
+  "kaynak_olay_ids": [
+   "veri_360_540_10056"
+  ]
+ },
+ {
+  "id": "v24",
+  "zaman": "6:53.30",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona oyuncuları orta alanda ve kanat tarafında iki adet pas attı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona oyuncuları orta alanda ve kanat tarafında iki adet pas attı."
+  ],
+  "sure_sn": 3.26,
+  "kaynak_olay_ids": [
+   "veri_360_540_10259",
+   "veri_360_540_10320"
+  ]
+ }
+]

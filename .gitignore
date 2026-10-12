@@ -23,3 +23,16 @@ teams*.csv
 events*.csv
 meta.json
 olaylar_zengin.json
+
+# push oncesi eklenenler: sanal ortamlar, ek video/model formatlari, gizli bilgi
+tts_venv/
+*.mkv
+*.avi
+*.onnx
+*.safetensors
+*.gguf
+.env
+.env.*
+tts_ornekler/*.wav
+# kor puanlama anahtari: puanlama bitene kadar yayimlanmaz (sonra eklenecek)
+puanlama_kor_anahtar.csv

@@ -1,0 +1,44 @@
+{
+ "gemma3:4b": {
+  "yukleme_sn": 18.86,
+  "naif": {
+   "toplam_sn": 67.7,
+   "slot": 24,
+   "vram_tepe_mib": 3693
+  },
+  "korumali": {
+   "toplam_sn": 74.8,
+   "slot": 24,
+   "vram_tepe_mib": 3697
+  },
+  "ollama_ps": "NAME         ID              SIZE      PROCESSOR    CONTEXT    RUNNER      UNTIL              \ngemma3:4b    68ceab7e468a    2.9 GB    100% GPU     2048       llamacpp    4 minutes from now"
+ },
+ "qwen3.5:4b": {
+  "yukleme_sn": 9.27,
+  "naif": {
+   "toplam_sn": 70.2,
+   "slot": 24,
+   "vram_tepe_mib": 3673
+  },
+  "korumali": {
+   "toplam_sn": 116.3,
+   "slot": 24,
+   "vram_tepe_mib": 3675
+  },
+  "ollama_ps": "NAME          ID              SIZE      PROCESSOR    CONTEXT    RUNNER      UNTIL              \nqwen3.5:4b    d8b0f5e9760c    3.1 GB    100% GPU     2048       llamacpp    4 minutes from now"
+ },
+ "llama3.1:8b": {
+  "yukleme_sn": 10.45,
+  "naif": {
+   "toplam_sn": 76.3,
+   "slot": 24,
+   "vram_tepe_mib": 4057
+  },
+  "korumali": {
+   "toplam_sn": 80.7,
+   "slot": 24,
+   "vram_tepe_mib": 4071
+  },
+  "ollama_ps": "NAME           ID              SIZE      PROCESSOR          CONTEXT    RUNNER      UNTIL              \nllama3.1:8b    46e0c10c039e    5.3 GB    22%/78% CPU/GPU    2048       llamacpp    4 minutes from now"
+ }
+}

@@ -1,0 +1,1542 @@
+[
+ {
+  "id": "v01",
+  "zaman": "1:07.18",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona art arda 2 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona arka arkaya 2 pasla oyunu geliştirmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona arka arkaya 2 pasla oyunu geliştirmiş gibi görünüyor."
+  ],
+  "sure_sn": 2.97,
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667"
+  ]
+ },
+ {
+  "id": "v02",
+  "zaman": "1:11.18",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına iletmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına iletmiş gibi görünüyor."
+  ],
+  "sure_sn": 2.76,
+  "kaynak_olay_ids": [
+   "ana_60_360_1729"
+  ]
+ },
+ {
+  "id": "v03",
+  "zaman": "1:16.78",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "metin": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Top Espanyol oyuncusuna geçmiş gibi duruyor."
+  ],
+  "sure_sn": 2.74,
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ]
+ },
+ {
+  "id": "v04",
+  "zaman": "1:21.50",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında topu elde etmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında topu elde etmiş gibi görünüyor."
+  ],
+  "sure_sn": 2.88,
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ]
+ },
+ {
+  "id": "v05",
+  "zaman": "1:30.86",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "metin": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor."
+  ],
+  "sure_sn": 2.93,
+  "kaynak_olay_ids": [
+   "ana_60_360_2259"
+  ]
+ },
+ {
+  "id": "v06",
+  "zaman": "1:42.70",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona topu 2 pasla dolaştırarak oyunu geliştiriyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu 2 pasla dolaştırarak oyunu geliştiriyor gibi görünüyor."
+  ],
+  "sure_sn": 2.93,
+  "kaynak_olay_ids": [
+   "ana_60_360_2476",
+   "ana_60_360_2555"
+  ]
+ },
+ {
+  "id": "v07",
+  "zaman": "1:48.18",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında kalmış gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında kalmış gibi."
+  ],
+  "sure_sn": 2.91,
+  "kaynak_olay_ids": [
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ]
+ },
+ {
+  "id": "v08",
+  "zaman": "1:53.02",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor."
+  ],
+  "sure_sn": 2.88,
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813"
+  ]
+ },
+ {
+  "id": "v09",
+  "zaman": "2:02.46",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona art arda 3 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona arka arkaya 3 pasla oyunu geliştirmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona arka arkaya 3 pasla oyunu geliştirmiş gibi görünüyor."
+  ],
+  "sure_sn": 2.84,
+  "kaynak_olay_ids": [
+   "ana_60_360_2968",
+   "ana_60_360_2991",
+   "ana_60_360_3049"
+  ]
+ },
+ {
+  "id": "v10",
+  "zaman": "2:06.46",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona topu 2 pasla dolaştırarak oyunu geliştiriyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu 2 pasla dolaştırarak oyunu geliştiriyor gibi görünüyor."
+  ],
+  "sure_sn": 2.83,
+  "kaynak_olay_ids": [
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "v11",
+  "zaman": "2:11.10",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "metin": "Pasla top Barcelona oyuncusunun ayağına ulaşmış gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Pasla top Barcelona oyuncusunun ayağına ulaşmış gibi."
+  ],
+  "sure_sn": 2.82,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v12",
+  "zaman": "2:20.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 2.83,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v13",
+  "zaman": "2:27.42",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında kalmış gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında kalmış gibi."
+  ],
+  "sure_sn": 2.88,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v14",
+  "zaman": "2:31.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Bu bölümde top ağırlıklı olarak Barcelona'nın kontrolünde gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu bölümde top ağırlıklı olarak Barcelona'nın kontrolünde gibi."
+  ],
+  "sure_sn": 2.77,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v15",
+  "zaman": "2:37.50",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına iletmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına iletmiş gibi görünüyor."
+  ],
+  "sure_sn": 2.78,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v16",
+  "zaman": "2:41.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Son on saniyede Barcelona 1 pas, Espanyol 0 pas yaptı.",
+  "metin": "Son on saniyede Barcelona 1 pas, Espanyol ise 0 pas yapmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Son on saniyede Barcelona 1 pas, Espanyol ise 0 pas yapmış gibi görünüyor."
+  ],
+  "sure_sn": 2.83,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v17",
+  "zaman": "2:49.54",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona sahanın ortasında pas yapmış gibi görünüyor.",
+  "metin": "Barcelona sahanın ortasında pas yapmış gibi görünüyor.",
+  "deneme_sayisi": 3,
+  "geri_donus": true,
+  "ihlal_turleri": [
+   [
+    "c_olgu",
+    "sayi_yeni"
+   ],
+   [
+    "c_olgu",
+    "sayi_yeni"
+   ],
+   [
+    "c_olgu",
+    "sayi_yeni"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona sahanın ortasında 3 pas yapmış gibi görünüyor.",
+   "Barcelona sahanın ortasında 3 pas yapmış gibi görünüyor.",
+   "Barcelona sahanın ortasında 3 pas yapmış gibi görünüyor."
+  ],
+  "sure_sn": 8.02,
+  "kaynak_olay_ids": [
+   "ana_60_360_4226"
+  ]
+ },
+ {
+  "id": "v18",
+  "zaman": "2:58.50",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Espanyol topu yaklaşık 24 metre taşımış gibi duruyor.",
+  "metin": "Espanyol topu yaklaşık 24 metre ilerletmiş gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Espanyol topu yaklaşık 24 metre ilerletmiş gibi duruyor."
+  ],
+  "sure_sn": 2.76,
+  "kaynak_olay_ids": [
+   "ana_60_360_4450"
+  ]
+ },
+ {
+  "id": "v19",
+  "zaman": "6:10.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Bu bölümde top ağırlıklı olarak Barcelona'nın kontrolünde gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu bölümde top ağırlıklı olarak Barcelona'nın kontrolünde gibi."
+  ],
+  "sure_sn": 2.65,
+  "kaynak_olay_ids": []
+ },
+ {
+  "id": "v20",
+  "zaman": "6:16.66",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Espanyol burada topu rakibe kaptırmış gibi görünüyor.",
+  "metin": "Espanyol burada topu rakibe kaptırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Espanyol burada topu rakibe kaptırmış gibi görünüyor."
+  ],
+  "sure_sn": 2.79,
+  "kaynak_olay_ids": [
+   "veri_360_540_9404"
+  ]
+ },
+ {
+  "id": "v21",
+  "zaman": "6:22.78",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde.",
+  "metin": "Topun sahibi değişmiş, şimdi Barcelona elinde gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Topun sahibi değişmiş, şimdi Barcelona elinde gibi."
+  ],
+  "sure_sn": 2.75,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557"
+  ]
+ },
+ {
+  "id": "v22",
+  "zaman": "6:30.50",
+  "tur": "pencere",
+  "model": "gemma3:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 2.8,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557",
+   "veri_360_540_9614"
+  ]
+ },
+ {
+  "id": "v23",
+  "zaman": "6:42.74",
+  "tur": "olay",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına iletmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına iletmiş gibi görünüyor."
+  ],
+  "sure_sn": 2.77,
+  "kaynak_olay_ids": [
+   "veri_360_540_10056"
+  ]
+ },
+ {
+  "id": "v24",
+  "zaman": "6:53.30",
+  "tur": "olay_grup",
+  "model": "gemma3:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor."
+  ],
+  "sure_sn": 2.78,
+  "kaynak_olay_ids": [
+   "veri_360_540_10259",
+   "veri_360_540_10320"
+  ]
+ },
+ {
+  "id": "v01",
+  "zaman": "1:07.18",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona art arda 2 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona arka arkaya 2 pasla oyunu sürdürmüş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona arka arkaya 2 pasla oyunu sürdürmüş gibi görünüyor."
+  ],
+  "sure_sn": 14.18,
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667"
+  ]
+ },
+ {
+  "id": "v02",
+  "zaman": "1:11.18",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 2.85,
+  "kaynak_olay_ids": [
+   "ana_60_360_1729"
+  ]
+ },
+ {
+  "id": "v03",
+  "zaman": "1:16.78",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "metin": "Top Espanyol oyuncusuna geçti gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Top Espanyol oyuncusuna geçti gibi duruyor."
+  ],
+  "sure_sn": 2.89,
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ]
+ },
+ {
+  "id": "v04",
+  "zaman": "1:21.50",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+  "metin": "Barcelona orta alanda kanatta topu ele geçirmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona orta alanda kanatta topu ele geçirmiş gibi görünüyor."
+  ],
+  "sure_sn": 3.03,
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ]
+ },
+ {
+  "id": "v05",
+  "zaman": "1:30.86",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "metin": "Barcelona oyunu sahanın uç bölgesinde sürdürüyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona oyunu sahanın uç bölgesinde sürdürüyor gibi görünüyor."
+  ],
+  "sure_sn": 2.81,
+  "kaynak_olay_ids": [
+   "ana_60_360_2259"
+  ]
+ },
+ {
+  "id": "v06",
+  "zaman": "1:42.70",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona topu iki pasla oynatıyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu iki pasla oynatıyor gibi görünüyor."
+  ],
+  "sure_sn": 2.94,
+  "kaynak_olay_ids": [
+   "ana_60_360_2476",
+   "ana_60_360_2555"
+  ]
+ },
+ {
+  "id": "v07",
+  "zaman": "1:48.18",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "deneme_sayisi": 3,
+  "geri_donus": true,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Kısa süre içinde iki pas yapıldı ve top Barcelona'da kaldı.",
+   "Kısa süre içinde iki pas yapıldı ve top Barcelona'da kaldı.",
+   "Kısa süre içinde iki pas yapıldı ve top Barcelona'da kaldı."
+  ],
+  "sure_sn": 8.41,
+  "kaynak_olay_ids": [
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ]
+ },
+ {
+  "id": "v08",
+  "zaman": "1:53.02",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "deneme_sayisi": 3,
+  "geri_donus": true,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında iki pasla oyunu sürdürüyor.",
+   "Barcelona orta alanda, kanat tarafında iki pasla oyunu sürdürüyor.",
+   "Barcelona orta alanda, kanat tarafında iki pasla oyunu sürdürüyor."
+  ],
+  "sure_sn": 8.3,
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813"
+  ]
+ },
+ {
+  "id": "v09",
+  "zaman": "2:02.46",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona art arda 3 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona arka arkaya 3 pasla oyunu sürdürmüş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona arka arkaya 3 pasla oyunu sürdürmüş gibi görünüyor."
+  ],
+  "sure_sn": 3.04,
+  "kaynak_olay_ids": [
+   "ana_60_360_2968",
+   "ana_60_360_2991",
+   "ana_60_360_3049"
+  ]
+ },
+ {
+  "id": "v10",
+  "zaman": "2:06.46",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona topu iki pasla oynatıyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu iki pasla oynatıyor gibi görünüyor."
+  ],
+  "sure_sn": 2.93,
+  "kaynak_olay_ids": [
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "v11",
+  "zaman": "2:11.10",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "metin": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "deneme_sayisi": 3,
+  "geri_donus": true,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Pasla top Barcelona oyuncusunun ayağına ulaştı.",
+   "Pasla top Barcelona oyuncusunun ayağına ulaştı.",
+   "Pasla top Barcelona oyuncusunun ayağına ulaştı."
+  ],
+  "sure_sn": 8.26,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v12",
+  "zaman": "2:20.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 3.14,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v13",
+  "zaman": "2:27.42",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "deneme_sayisi": 3,
+  "geri_donus": true,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Kısa süre içinde iki pas yapıldı ve top Barcelona'da kaldı.",
+   "Kısa süre içinde iki pas yapıldı ve top Barcelona'da kaldı.",
+   "Kısa süre içinde iki pas yapıldı ve top Barcelona'da kaldı."
+  ],
+  "sure_sn": 8.37,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v14",
+  "zaman": "2:31.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Bu bölümden top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu bölümden top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 3.12,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v15",
+  "zaman": "2:37.50",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 2.85,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v16",
+  "zaman": "2:41.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Son on saniyede Barcelona 1 pas, Espanyol 0 pas yaptı.",
+  "metin": "Son on saniyede Barcelona bir pas, Espanyol hiç pas yapmadı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Son on saniyede Barcelona bir pas, Espanyol hiç pas yapmadı."
+  ],
+  "sure_sn": 3.04,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v17",
+  "zaman": "2:49.54",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona sahanın ortasında pas yapmış gibi görünüyor.",
+  "metin": "Barcelona sahanın ortasında pasla oyunu sürdürmüş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona sahanın ortasında pasla oyunu sürdürmüş gibi görünüyor."
+  ],
+  "sure_sn": 2.99,
+  "kaynak_olay_ids": [
+   "ana_60_360_4226"
+  ]
+ },
+ {
+  "id": "v18",
+  "zaman": "2:58.50",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Espanyol topu yaklaşık 24 metre taşımış gibi duruyor.",
+  "metin": "Espanyol topu yaklaşık 24 metre taşıyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Espanyol topu yaklaşık 24 metre taşıyor gibi görünüyor."
+  ],
+  "sure_sn": 3.02,
+  "kaynak_olay_ids": [
+   "ana_60_360_4450"
+  ]
+ },
+ {
+  "id": "v19",
+  "zaman": "6:10.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Bu bölümden top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu bölümden top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 2.97,
+  "kaynak_olay_ids": []
+ },
+ {
+  "id": "v20",
+  "zaman": "6:16.66",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Espanyol burada topu rakibe kaptırmış gibi görünüyor.",
+  "metin": "Espanyol burada topu rakibe vermiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Espanyol burada topu rakibe vermiş gibi görünüyor."
+  ],
+  "sure_sn": 3.01,
+  "kaynak_olay_ids": [
+   "veri_360_540_9404"
+  ]
+ },
+ {
+  "id": "v21",
+  "zaman": "6:22.78",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde.",
+  "metin": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde.",
+  "deneme_sayisi": 3,
+  "geri_donus": true,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Topun sahibi değişmiş, şimdi Barcelona'da.",
+   "Topun sahibi değişmiş, şimdi Barcelona'da.",
+   "Topun sahibi değişmiş, şimdi Barcelona'da."
+  ],
+  "sure_sn": 7.88,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557"
+  ]
+ },
+ {
+  "id": "v22",
+  "zaman": "6:30.50",
+  "tur": "pencere",
+  "model": "qwen3.5:4b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 3.04,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557",
+   "veri_360_540_9614"
+  ]
+ },
+ {
+  "id": "v23",
+  "zaman": "6:42.74",
+  "tur": "olay",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 2.94,
+  "kaynak_olay_ids": [
+   "veri_360_540_10056"
+  ]
+ },
+ {
+  "id": "v24",
+  "zaman": "6:53.30",
+  "tur": "olay_grup",
+  "model": "qwen3.5:4b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "deneme_sayisi": 3,
+  "geri_donus": true,
+  "ihlal_turleri": [
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ],
+   [
+    "hedge_kayip"
+   ]
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat tarafında iki pasla oyunu sürdürüyor.",
+   "Barcelona orta alanda, kanat tarafında iki pasla oyunu sürdürüyor.",
+   "Barcelona orta alanda, kanat tarafında iki pasla oyunu sürdürüyor."
+  ],
+  "sure_sn": 8.34,
+  "kaynak_olay_ids": [
+   "veri_360_540_10259",
+   "veri_360_540_10320"
+  ]
+ },
+ {
+  "id": "v01",
+  "zaman": "1:07.18",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona art arda 2 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona arka arkaya 2 pasla oyunu sürdürmüş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona arka arkaya 2 pasla oyunu sürdürmüş gibi görünüyor."
+  ],
+  "sure_sn": 3.47,
+  "kaynak_olay_ids": [
+   "ana_60_360_1616",
+   "ana_60_360_1667"
+  ]
+ },
+ {
+  "id": "v02",
+  "zaman": "1:11.18",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 3.15,
+  "kaynak_olay_ids": [
+   "ana_60_360_1729"
+  ]
+ },
+ {
+  "id": "v03",
+  "zaman": "1:16.78",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "metin": "Top Espanyol oyuncusuna geçmiş gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Top Espanyol oyuncusuna geçmiş gibi duruyor."
+  ],
+  "sure_sn": 3.17,
+  "kaynak_olay_ids": [
+   "ana_60_360_1907"
+  ]
+ },
+ {
+  "id": "v04",
+  "zaman": "1:21.50",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona orta alanda, kanat tarafında topu kazanmış gibi görünüyor.",
+  "metin": "Barcelona orta alanda, kanat bölgesinde topu ele geçirmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona orta alanda, kanat bölgesinde topu ele geçirmiş gibi görünüyor."
+  ],
+  "sure_sn": 3.48,
+  "kaynak_olay_ids": [
+   "ana_60_360_2025"
+  ]
+ },
+ {
+  "id": "v05",
+  "zaman": "1:30.86",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "metin": "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona oyunu sahanın uç bölgelerinden birinde sürdürüyor gibi görünüyor."
+  ],
+  "sure_sn": 3.29,
+  "kaynak_olay_ids": [
+   "ana_60_360_2259"
+  ]
+ },
+ {
+  "id": "v06",
+  "zaman": "1:42.70",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona topu 2 pasla dolaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu 2 pasla dolaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 3.29,
+  "kaynak_olay_ids": [
+   "ana_60_360_2476",
+   "ana_60_360_2555"
+  ]
+ },
+ {
+  "id": "v07",
+  "zaman": "1:48.18",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularının elinde gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Kısa sürede 2 pas görüldü, top Barcelona oyuncularının elinde gibi."
+  ],
+  "sure_sn": 3.51,
+  "kaynak_olay_ids": [
+   "ana_60_360_2627",
+   "ana_60_360_2692"
+  ]
+ },
+ {
+  "id": "v08",
+  "zaman": "1:53.02",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda ve kanat bölgesinde 2 pas yapmış gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona orta alanda ve kanat bölgesinde 2 pas yapmış gibi duruyor."
+  ],
+  "sure_sn": 3.34,
+  "kaynak_olay_ids": [
+   "ana_60_360_2751",
+   "ana_60_360_2813"
+  ]
+ },
+ {
+  "id": "v09",
+  "zaman": "2:02.46",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona art arda 3 pas yapmış gibi görünüyor.",
+  "metin": "Barcelona arka arkaya 3 pasla oyunu sürdürmüş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona arka arkaya 3 pasla oyunu sürdürmüş gibi görünüyor."
+  ],
+  "sure_sn": 3.24,
+  "kaynak_olay_ids": [
+   "ana_60_360_2968",
+   "ana_60_360_2991",
+   "ana_60_360_3049"
+  ]
+ },
+ {
+  "id": "v10",
+  "zaman": "2:06.46",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu 2 pasla dolaştırıyor gibi görünüyor.",
+  "metin": "Barcelona topu 2 pasla dolaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu 2 pasla dolaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 3.35,
+  "kaynak_olay_ids": [
+   "ana_60_360_3076",
+   "ana_60_360_3137"
+  ]
+ },
+ {
+  "id": "v11",
+  "zaman": "2:11.10",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Pasla top Barcelona oyuncusunun ayağına gitmiş gibi.",
+  "metin": "Barcelona oyuncusunun ayağına top pasla gelmiş gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona oyuncusunun ayağına top pasla gelmiş gibi."
+  ],
+  "sure_sn": 3.18,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v12",
+  "zaman": "2:20.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Bu son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 3.52,
+  "kaynak_olay_ids": [
+   "ana_60_360_3265"
+  ]
+ },
+ {
+  "id": "v13",
+  "zaman": "2:27.42",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularında gibi.",
+  "metin": "Kısa sürede 2 pas görüldü, top Barcelona oyuncularının elinde gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Kısa sürede 2 pas görüldü, top Barcelona oyuncularının elinde gibi."
+  ],
+  "sure_sn": 3.56,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v14",
+  "zaman": "2:31.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Bu bölümde top çoğunlukla Barcelona'nın kontrolünde gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu bölümde top çoğunlukla Barcelona'nın kontrolünde gibi."
+  ],
+  "sure_sn": 3.05,
+  "kaynak_olay_ids": [
+   "ana_60_360_3635",
+   "ana_60_360_3673"
+  ]
+ },
+ {
+  "id": "v15",
+  "zaman": "2:37.50",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 3.26,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v16",
+  "zaman": "2:41.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Son on saniyede Barcelona 1 pas, Espanyol 0 pas yaptı.",
+  "metin": "Son on saniyede Barcelona 1 pas, Espanyol ise pas yapmadı.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Son on saniyede Barcelona 1 pas, Espanyol ise pas yapmadı."
+  ],
+  "sure_sn": 3.54,
+  "kaynak_olay_ids": [
+   "ana_60_360_3925"
+  ]
+ },
+ {
+  "id": "v17",
+  "zaman": "2:49.54",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona sahanın ortasında pas yapmış gibi görünüyor.",
+  "metin": "Barcelona sahanın ortasında pas yollamış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona sahanın ortasında pas yollamış gibi görünüyor."
+  ],
+  "sure_sn": 3.16,
+  "kaynak_olay_ids": [
+   "ana_60_360_4226"
+  ]
+ },
+ {
+  "id": "v18",
+  "zaman": "2:58.50",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Espanyol topu yaklaşık 24 metre taşımış gibi duruyor.",
+  "metin": "Espanyol topu yaklaşık 24 metre götürmüş gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Espanyol topu yaklaşık 24 metre götürmüş gibi duruyor."
+  ],
+  "sure_sn": 3.22,
+  "kaynak_olay_ids": [
+   "ana_60_360_4450"
+  ]
+ },
+ {
+  "id": "v19",
+  "zaman": "6:10.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Bu bölümde top ağırlıklı olarak Barcelona tarafında gibi.",
+  "metin": "Bu bölümde top çoğunlukla Barcelona'nın kontrolünde gibi.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu bölümde top çoğunlukla Barcelona'nın kontrolünde gibi."
+  ],
+  "sure_sn": 3.13,
+  "kaynak_olay_ids": []
+ },
+ {
+  "id": "v20",
+  "zaman": "6:16.66",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Espanyol burada topu rakibe kaptırmış gibi görünüyor.",
+  "metin": "Espanyol burada topu rakibe teslim etmiş gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Espanyol burada topu rakibe teslim etmiş gibi görünüyor."
+  ],
+  "sure_sn": 3.21,
+  "kaynak_olay_ids": [
+   "veri_360_540_9404"
+  ]
+ },
+ {
+  "id": "v21",
+  "zaman": "6:22.78",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde.",
+  "metin": "Topun sahibi değişmiş gibi, şimdi Barcelona elinde tutuyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Topun sahibi değişmiş gibi, şimdi Barcelona elinde tutuyor."
+  ],
+  "sure_sn": 3.22,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557"
+  ]
+ },
+ {
+  "id": "v22",
+  "zaman": "6:30.50",
+  "tur": "pencere",
+  "model": "llama3.1:8b",
+  "sablon": "Son on saniyede topa daha çok Barcelona sahip olmuş gibi görünüyor.",
+  "metin": "Bu son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Bu son on saniyede top çoğunlukla Barcelona'da kalmış gibi görünüyor."
+  ],
+  "sure_sn": 3.45,
+  "kaynak_olay_ids": [
+   "veri_360_540_9557",
+   "veri_360_540_9614"
+  ]
+ },
+ {
+  "id": "v23",
+  "zaman": "6:42.74",
+  "tur": "olay",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona topu arkadaşına aktarmış gibi görünüyor.",
+  "metin": "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona topu takım arkadaşına ulaştırmış gibi görünüyor."
+  ],
+  "sure_sn": 3.29,
+  "kaynak_olay_ids": [
+   "veri_360_540_10056"
+  ]
+ },
+ {
+  "id": "v24",
+  "zaman": "6:53.30",
+  "tur": "olay_grup",
+  "model": "llama3.1:8b",
+  "sablon": "Barcelona orta alanda, kanat tarafında 2 pas yapmış gibi duruyor.",
+  "metin": "Barcelona orta alanda ve kanat bölgesinde 2 pas yapmış gibi duruyor.",
+  "deneme_sayisi": 1,
+  "geri_donus": false,
+  "ihlal_turleri": [
+   []
+  ],
+  "denemeler": [
+   "Barcelona orta alanda ve kanat bölgesinde 2 pas yapmış gibi duruyor."
+  ],
+  "sure_sn": 3.35,
+  "kaynak_olay_ids": [
+   "veri_360_540_10259",
+   "veri_360_540_10320"
+  ]
+ }
+]
