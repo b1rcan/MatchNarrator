@@ -1,0 +1,25 @@
+# Buyuk / uretilmis dosyalar (surum dondurma: yalnizca kod ve raporlar izlenir)
+*.mp4
+*.pt
+*.zip
+.venv/
+__pycache__/
+*.pyc
+# veri ve olcum klasorleri
+veri_*/
+tarama/
+runs/
+sonuc_bytetrack/
+# yedekler ve uretilmis gorseller
+*.bak*
+*.png
+# ara/uretilmis CSV ve JSON (etiket dosyalari gercek_olaylar*.csv bilerek IGNORE EDILMEDI)
+tracking_data.csv
+players*.csv
+ball_*.csv
+homography.csv
+possession.csv
+teams*.csv
+events*.csv
+meta.json
+olaylar_zengin.json
