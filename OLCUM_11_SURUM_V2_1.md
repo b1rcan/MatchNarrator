@@ -21,8 +21,6 @@ Dondurulan parametreler (events_v2.py varsayilanlari):
 Nihai sonuc (test seti 180-300 sn, 24 etiket): TP 10 / FP 12 / FN 14,
   Precision 0.455, Recall 0.417, F1 0.435 (%95: 0.24-0.59)
 Gelistirme (60-180): F1 0.627; dogrulama (360-540): F1 0.475; birlesik (3 set, 106 etiket): F1 0.518.
-
-Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>
 ```
 
 ## 2. Zengin olay çıktısı (`olay_zenginlestir.py` → `olaylar_zengin.json`)
