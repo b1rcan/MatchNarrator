@@ -36,3 +36,12 @@ tts_venv/
 tts_ornekler/*.wav
 # kor puanlama anahtari: puanlama bitene kadar yayimlanmaz (sonra eklenecek)
 puanlama_kor_anahtar.csv
+
+# --- uzak repodaki ilk .gitignore'dan birlestirilenler ---
+.DS_Store
+*.py[cod]
+assets/input_videos/*.mp4
+assets/output_videos/*.mp4
+assets/temp/*
+venv/
+env/
